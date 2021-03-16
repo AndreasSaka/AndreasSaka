@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndreasSaka
-- 👀 I’m interested in Data Science and Learning.
-- 🌱 I’m currently learning Python development and Pyspark.
+- 👀 I’m interested in Data Science and Predictive Analytics.
+- 🌱 I’m currently learning Python, R and Pyspark.
 - 📫 How to reach me andreassaka7@gmail.com
 
 <!---
